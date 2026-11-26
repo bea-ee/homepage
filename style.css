@@ -131,7 +131,7 @@ input[type="email"], input[type="password"] {
 
 #calendar {
   width: 100%;
-  height: calc(100vh - 10px - 300px);
+  height: calc(100vh - 60px);
 
   position: relative;
   @media (prefers-color-scheme: light) {
