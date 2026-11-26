@@ -24,7 +24,7 @@ function parseTags(listID) {
   
 }
 
-// more 11 o lock code gl brendan :)
+// more 11 o lock code gl bea :)
 function filterList(me, hashtag, listID) {
   if (!Array.from(document.getElementsByClassName('selected')).includes(me)) {
     me.classList.add('selected');

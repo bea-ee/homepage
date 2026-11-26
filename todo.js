@@ -51,7 +51,7 @@ function parseTodo(item, toReturn) {
     return wordArray[0];
   }
 }
-// brendan good luck figuring this out (written at 11 at noght)
+// bea good luck figuring this out (written at 11 at noght)
 
 
 
